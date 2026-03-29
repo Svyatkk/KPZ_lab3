@@ -13,8 +13,6 @@
             {
                 _nodes[key] = new LightElementNode(tagName, displayType, closingType);
             }
-            // Повертаємо новий екземпляр, але в реальному Flyweight ми б винесли 
-            // стан (children) назовні. Для спрощення прикладу створюємо базу.
             return new LightElementNode(tagName, displayType, closingType); 
         }
     }

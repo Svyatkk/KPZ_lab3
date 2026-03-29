@@ -11,7 +11,6 @@ namespace Task4_Proxy
     {
         public char[][] Read(string filePath)
         {
-            // Для прикладу імітуємо читання
             string[] lines = { "Line 1", "Line 2 text" };
             char[][] result = new char[lines.Length][];
             for (int i = 0; i < lines.Length; i++) result[i] = lines[i].ToCharArray();
