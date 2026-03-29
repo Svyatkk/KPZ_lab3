@@ -1,0 +1,14 @@
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\bin\Debug\net9.0\KPZ_lab3.exe
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\bin\Debug\net9.0\KPZ_lab3.deps.json
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\bin\Debug\net9.0\KPZ_lab3.runtimeconfig.json
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\bin\Debug\net9.0\KPZ_lab3.dll
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\bin\Debug\net9.0\KPZ_lab3.pdb
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.AssemblyInfoInputs.cache
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.AssemblyInfo.cs
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.dll
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\refint\KPZ_lab3.dll
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.pdb
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\KPZ_lab3.genruntimeconfig.cache
+C:\Users\Sviat\source\repos\KPZ_lab3\KPZ_lab3\obj\Debug\net9.0\ref\KPZ_lab3.dll
