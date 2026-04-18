@@ -1,4 +1,4 @@
-﻿namespace Task5_Composite
+namespace Task5_Composite
 {
     public abstract class LightNode
     {
@@ -21,6 +21,7 @@
         public string ClosingType { get; }
         public List<string> CssClasses { get; } = new List<string>();
         private List<LightNode> _children = new List<LightNode>();
+        public int ChildrenCount => _children.Count;
 
         public LightElementNode(string tagName, string displayType, string closingType)
         {
