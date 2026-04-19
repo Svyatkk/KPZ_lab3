@@ -9,7 +9,6 @@ namespace KPZ_MK1
         void Undo();
     }
 
-    /// <summary>Command: add a child node to a parent element.</summary>
     public class AddNodeCommand : ICommand
     {
         private readonly LightElementNode _parent;
@@ -25,7 +24,6 @@ namespace KPZ_MK1
         public void Undo()    => _parent.Remove(_child);
     }
 
-    /// <summary>Invoker: keeps history and enables Undo.</summary>
     public class CommandHistory
     {
         private readonly Stack<ICommand> _history = new();
